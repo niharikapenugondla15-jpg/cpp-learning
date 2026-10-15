@@ -2,5 +2,6 @@
 namespace using std
 void main ()
 {
-  cout<<"Hello  GitHub!";
+  cout<<"Hello  GitHub!\n";
+  cout<<"I am learning c++";
 }
